@@ -2,7 +2,7 @@ var TelegramBot = require("node-telegram-bot-api");
 var http = require("http");
 var fs = require("fs");
 var telegram = new TelegramBot(
-  "1342608979:AAHs2CHekyYZODPb6cegscYZ80cRKuHJL08",
+  "1342608979:AAHmo-5Jyr0SE0TWJWJGU07gs-R83D1x7yw",
   { polling: true }
 );
 var a;
